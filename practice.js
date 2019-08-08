@@ -116,7 +116,7 @@ user2.email = 'bryan.smith@devmounta.in'
 /////////////////////// EXTRA PRACTICE PROBLEMS BELOW ////////////////////
 ////////// MOVE ONTO NEXT SECTION BEFORE WORKING ON THESE ////////////////
 
-////////// PROBLEM 5 //////////
+////////// PROBLEM 5 ///////////
 
 /*
   Create an empty object called methodCollection.
